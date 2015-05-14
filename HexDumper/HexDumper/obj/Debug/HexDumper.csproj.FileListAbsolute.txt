@@ -1,0 +1,9 @@
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\bin\Debug\dumpHex.exe.config
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\dumpHex.exe
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\dumpHex.pdb
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\bin\Debug\dumpHex.exe
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\bin\Debug\dumpHex.pdb
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\HexDumper.csprojResolveAssemblyReference.cache
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\dumpHex.Form1.resources
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\dumpHex.Properties.Resources.resources
+C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\HexDumper.csproj.GenerateResource.Cache
