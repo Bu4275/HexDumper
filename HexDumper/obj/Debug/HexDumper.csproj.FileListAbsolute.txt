@@ -7,3 +7,12 @@ C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\
 C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\dumpHex.Form1.resources
 C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\dumpHex.Properties.Resources.resources
 C:\Users\Bubu\Documents\Visual Studio 2013\Projects\dumpHex\HexDumper\obj\Debug\HexDumper.csproj.GenerateResource.Cache
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\bin\Debug\dumpHex.exe.config
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\obj\Debug\dumpHex.exe
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\obj\Debug\dumpHex.pdb
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\bin\Debug\dumpHex.exe
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\bin\Debug\dumpHex.pdb
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\obj\Debug\HexDumper.csprojResolveAssemblyReference.cache
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\obj\Debug\HexDumper.Form1.resources
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\obj\Debug\HexDumper.Properties.Resources.resources
+C:\Users\Bubu\Desktop\Application\GitHub\HexDumper\HexDumper\obj\Debug\HexDumper.csproj.GenerateResource.Cache

@@ -23,7 +23,7 @@ namespace HexDumper
             op.Filter = "*.* | *.*";
             if (op.ShowDialog() == DialogResult.OK)
             {
-                string str = DumpHex(op.FileName);
+                StringBuilder str = DumpHex(op.FileName);
                 saveData(ref str);
             }
         }
@@ -37,12 +37,12 @@ namespace HexDumper
         private void Form1_DragDrop(object sender, DragEventArgs e)
         {
             string[] filePath = (string[])e.Data.GetData(DataFormats.FileDrop, false);
-            string str = DumpHex(string.Join("", filePath));
+            StringBuilder str = DumpHex(string.Join("", filePath));
             saveData(ref str);
         }
 
         // saveFile
-        private void saveData(ref string str)
+        private void saveData(ref StringBuilder str)
         {
             SaveFileDialog sf = new SaveFileDialog();
             sf.Filter = "*.* | *.*";
@@ -52,21 +52,23 @@ namespace HexDumper
                 {
                     using (StreamWriter sw = new StreamWriter(fs))
                     {
-                        sw.Write(str);
+                        sw.Write(str.ToString());
                     }
                 }
             }
         }
         // ouput format
-        private string DumpHex(string filePath)
+        private StringBuilder DumpHex(string filePath)
         {
-            string HexStr = string.Empty;
+            StringBuilder HexStr = new StringBuilder("");
             using (Stream stream = new FileStream(filePath, FileMode.Open))
             {
                 int bin;
                 // textBox1.Text is Separator, b.ToString("X") is Hex
+
+
                 while ((bin = stream.ReadByte()) != -1)
-                    HexStr += textBox1.Text + bin.ToString("X"); 
+                    HexStr.Append(textBox1.Text + bin.ToString("X"));
             }
             return HexStr;
         }
