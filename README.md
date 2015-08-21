@@ -1,2 +1,2 @@
 # HexDumper
-Dumper Bin To Hex
+Dumping Bin To Hex
